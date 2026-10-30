@@ -35,7 +35,7 @@ The idea is *image differencing*: subtract one image from the other — where th
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<yasserr-mohamed>/spot-the-difference.git
+git clone https://github.com/yasserr-mohamed/spot-the-difference.git
 cd spot-the-difference
 pip install -r requirements.txt
 python app.py
